@@ -1,0 +1,10 @@
+{
+  "name": "pirates-match3",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt-contrib-uglify": "~0.3.2",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt": "~0.4.2",
+    "grunt-contrib-clean": "^0.5.0"
+  }
+}
